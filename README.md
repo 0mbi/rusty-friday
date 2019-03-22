@@ -1,2 +1,5 @@
 # rusty-friday
-Possible rust projects that i consider to contribute
+Possible rust projects to contribute:
+
+## Editors
+- https://github.com/remacs/remacs
